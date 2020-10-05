@@ -1,5 +1,5 @@
 {
-  "name": "react-livechat",
+  "name": "@lkomar/react-livechat",
   "version": "1.0.27",
   "description": "React component to integrate LiveChat with your single-page app",
   "main": "LiveChat.js",
